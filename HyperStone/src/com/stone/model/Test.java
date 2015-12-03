@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	str=","+str;
 	System.out.println(str.replaceFirst(",", ""));
 	*/
-	//aaaa
+	//aaaaaaa
 	Object o=new Integer("12");
 	System.out.println(Long.parseLong(o+""));
 	
